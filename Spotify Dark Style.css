@@ -1,6 +1,6 @@
 /* Spotify Dark Style */
 /*Font*/
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker:wght@300&display=swap');
 /*Widget box*/
 #container {
   animation: bar 5s ease-out infinite alternate both;
@@ -29,7 +29,7 @@
 /*Image cover box*/
 .cover {
   animation: bar 5s ease-out infinite alternate both;
-  background: rgba(25, 20, 20, 1);
+  background: transparent;
   border-radius: 15px 0px 0px 15px;
 }
 /*Image cover*/
