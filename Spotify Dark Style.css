@@ -11,7 +11,7 @@
 /*Track name*/
 #name {
   color: rgba(29, 185, 84, 1);
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Permanent Marker', sans-serif;
   font-size: 18px;
   text-transform: none;
   position: absolute;
@@ -20,7 +20,7 @@
 /*Artist name*/
 #artists {
   color: rgba(255, 255, 255, 1);
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Permanent Marker', sans-serif;
   font-size: 12px;
   text-transform: none;
   position: absolute;
@@ -30,7 +30,7 @@
 .cover {
   animation: bar 5s ease-out infinite alternate both;
   background: transparent;
-  border-radius: 15px 0px 0px 15px;
+  border-radius: 0px 0px 0px 15px;
 }
 /*Image cover*/
 img {
