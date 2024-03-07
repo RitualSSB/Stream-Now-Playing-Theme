@@ -1,16 +1,15 @@
 /* Spotify Dark Style */
 /*Font*/
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker');
 /*Widget box*/
 #container {
   animation: bar 5s ease-out infinite alternate both;
-  background: rgba(25, 20, 20, 1);
-  border-radius: 15px 15px 15px 15px;
-  border-bottom: 3px solid rgba(29, 185, 84, 1);
+  background: transparent;
+  
 }
 /*Track name*/
 #name {
-  color: rgba(29, 185, 84, 1);
+  color: rgba(255, 255, 255, 1);
   font-family: 'Permanent Marker', sans-serif;
   font-size: 18px;
   text-transform: none;
@@ -42,7 +41,7 @@ img {
   width: 65px;
   height: 65px;
   border-radius: 50%;
-  border: 3px solid rgba(255, 255, 255, 1);
+  border: 3px solid rgba(98, 0, 196, 1);
 }
 /*Animations*/
 
